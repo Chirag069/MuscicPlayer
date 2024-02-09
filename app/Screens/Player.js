@@ -46,6 +46,21 @@ const songs = [
     artwork: 'https://i.ytimg.com/vi/wncNcu6jEgs/maxresdefault.jpg',
     url: 'https://audio.jukehost.co.uk/2lwZjtZJEmon76FlT30KOoDf6lJg9nVx',
   },
+  {
+    id: 3,
+    title: 'Khalasi',
+    artist: 'Aditya gadhvi',
+    artwork:
+      'https://pagalworld.cool/siteuploads/thumb/sft3/1212_resize2x_250x250.webp',
+    url: 'https://audio.jukehost.co.uk/Ro4qJXWzpP208NFAeNz3K3zd9MGg8oA1',
+  },
+  {
+    id: 4,
+    title: 'Apa Fer Milange',
+    artist: 'Savi kahlon',
+    artwork: 'https://paglasongs.com/uploads/thumb/sft35/17048_4.jpg',
+    url: 'https://audio.jukehost.co.uk/A1LGgYHgvSA5igPg9AtUL3aR5Khrr7zJ',
+  },
 ];
 
 const setupPlayer = async () => {
